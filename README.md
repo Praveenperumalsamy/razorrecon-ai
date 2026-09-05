@@ -180,17 +180,3 @@ python -m pytest backend/tests/ -v
 - **Database**: PostgreSQL (via Docker Compose) with SQLite fallback
 - **AI Engine**: Google Gemini (with deterministic template fallback)
 
----
-
-## 5-Minute Buildathon Demo Script
-
-1. **0:00 — Problem**: Merchants lose visibility because financial truth is fragmented across bank statements, Razorpay settlements, and ledger entries.
-2. **0:30 — Product**: Demonstrate RazorRecon AI — an AI controller that verifies multi-source financial truth and knows when *not* to auto-approve.
-3. **1:00 — Data & Demo Button**: Click **"Run Demo"** to ingest 120+ synthetic records and execute the 5-step reconciliation pipeline.
-4. **1:30 — Dashboard**: Show 91% match rate, 78% auto-reconciled, 13% AI-assisted, 9 human review queue items.
-5. **2:00 — Explainability & "Why?" Button**: Open transaction `PAY_0001` and click "Why Was This Matched?" to show the exact scoring breakdown.
-6. **2:45 — Difficult Exception & Refusal**: Open ambiguous transaction `PAY_0071` (confidence 68%). Show how the system **refuses auto-reconciliation** and routes to human review.
-7. **3:15 — AI Controller Chat**: Ask *"How much money is currently unreconciled?"* and get exact database-queried figures (`₹42,800 across 7 transactions`).
-8. **3:45 — Benchmark Metrics**: Show 100% precision on held-out synthetic test set with ₹0.00 false positive exposure.
-9. **4:15 — Immutable Audit Trail**: Review timeline log showing every automated match and manual approval.
-10. **4:40 — Closing**: *"The most important feature isn't that our AI can reconcile money. It's that it knows when it shouldn't."*
