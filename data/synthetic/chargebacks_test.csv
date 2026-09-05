@@ -1,0 +1,2 @@
+chargeback_id,payment_id,chargeback_date,amount,reason,status
+CHB_0004,PAY_0014,2024-09-13,11025.01,not_received,open

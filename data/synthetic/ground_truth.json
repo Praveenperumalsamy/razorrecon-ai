@@ -1,0 +1,862 @@
+[
+    {
+        "payment_id": "PAY_0001",
+        "bank_tx_id": "BTX_0001",
+        "settlement_id": "STL_0001",
+        "ledger_id": "LED_0001",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0002",
+        "bank_tx_id": "BTX_0002",
+        "settlement_id": "STL_0002",
+        "ledger_id": "LED_0002",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0003",
+        "bank_tx_id": "BTX_0003",
+        "settlement_id": "STL_0003",
+        "ledger_id": "LED_0003",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0004",
+        "bank_tx_id": "BTX_0004",
+        "settlement_id": "STL_0004",
+        "ledger_id": "LED_0004",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0005",
+        "bank_tx_id": "BTX_0005",
+        "settlement_id": "STL_0005",
+        "ledger_id": "LED_0005",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0006",
+        "bank_tx_id": "BTX_0006",
+        "settlement_id": "STL_0006",
+        "ledger_id": "LED_0006",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0007",
+        "bank_tx_id": "BTX_0007",
+        "settlement_id": "STL_0007",
+        "ledger_id": "LED_0007",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0008",
+        "bank_tx_id": "BTX_0008",
+        "settlement_id": "STL_0008",
+        "ledger_id": "LED_0008",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0009",
+        "bank_tx_id": "BTX_0009",
+        "settlement_id": "STL_0009",
+        "ledger_id": "LED_0009",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0010",
+        "bank_tx_id": "BTX_0010",
+        "settlement_id": "STL_0010",
+        "ledger_id": "LED_0010",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0011",
+        "bank_tx_id": "BTX_0011",
+        "settlement_id": "STL_0011",
+        "ledger_id": "LED_0011",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0012",
+        "bank_tx_id": "BTX_0012",
+        "settlement_id": "STL_0012",
+        "ledger_id": "LED_0012",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0013",
+        "bank_tx_id": "BTX_0013",
+        "settlement_id": "STL_0013",
+        "ledger_id": "LED_0013",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0014",
+        "bank_tx_id": "BTX_0014",
+        "settlement_id": "STL_0014",
+        "ledger_id": "LED_0014",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0015",
+        "bank_tx_id": "BTX_0015",
+        "settlement_id": "STL_0015",
+        "ledger_id": "LED_0015",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0016",
+        "bank_tx_id": "BTX_0016",
+        "settlement_id": "STL_0016",
+        "ledger_id": "LED_0016",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0017",
+        "bank_tx_id": "BTX_0017",
+        "settlement_id": "STL_0017",
+        "ledger_id": "LED_0017",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0018",
+        "bank_tx_id": "BTX_0018",
+        "settlement_id": "STL_0018",
+        "ledger_id": "LED_0018",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0019",
+        "bank_tx_id": "BTX_0019",
+        "settlement_id": "STL_0019",
+        "ledger_id": "LED_0019",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0020",
+        "bank_tx_id": "BTX_0020",
+        "settlement_id": "STL_0020",
+        "ledger_id": "LED_0020",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0021",
+        "bank_tx_id": "BTX_0021",
+        "settlement_id": "STL_0021",
+        "ledger_id": "LED_0021",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0022",
+        "bank_tx_id": "BTX_0022",
+        "settlement_id": "STL_0022",
+        "ledger_id": "LED_0022",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0023",
+        "bank_tx_id": "BTX_0023",
+        "settlement_id": "STL_0023",
+        "ledger_id": "LED_0023",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0024",
+        "bank_tx_id": "BTX_0024",
+        "settlement_id": "STL_0024",
+        "ledger_id": "LED_0024",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0025",
+        "bank_tx_id": "BTX_0025",
+        "settlement_id": "STL_0025",
+        "ledger_id": "LED_0025",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0026",
+        "bank_tx_id": "BTX_0026",
+        "settlement_id": "STL_0026",
+        "ledger_id": "LED_0026",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0027",
+        "bank_tx_id": "BTX_0027",
+        "settlement_id": "STL_0027",
+        "ledger_id": "LED_0027",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0028",
+        "bank_tx_id": "BTX_0028",
+        "settlement_id": "STL_0028",
+        "ledger_id": "LED_0028",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0029",
+        "bank_tx_id": "BTX_0029",
+        "settlement_id": "STL_0029",
+        "ledger_id": "LED_0029",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0030",
+        "bank_tx_id": "BTX_0030",
+        "settlement_id": "STL_0030",
+        "ledger_id": "LED_0030",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0031",
+        "bank_tx_id": "BTX_0031",
+        "settlement_id": "STL_0031",
+        "ledger_id": "LED_0031",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0032",
+        "bank_tx_id": "BTX_0032",
+        "settlement_id": "STL_0032",
+        "ledger_id": "LED_0032",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0033",
+        "bank_tx_id": "BTX_0033",
+        "settlement_id": "STL_0033",
+        "ledger_id": "LED_0033",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0034",
+        "bank_tx_id": "BTX_0034",
+        "settlement_id": "STL_0034",
+        "ledger_id": "LED_0034",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0035",
+        "bank_tx_id": "BTX_0035",
+        "settlement_id": "STL_0035",
+        "ledger_id": "LED_0035",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0036",
+        "bank_tx_id": "BTX_0036",
+        "settlement_id": "STL_0036",
+        "ledger_id": "LED_0036",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0037",
+        "bank_tx_id": "BTX_0037",
+        "settlement_id": "STL_0037",
+        "ledger_id": "LED_0037",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0038",
+        "bank_tx_id": "BTX_0038",
+        "settlement_id": "STL_0038",
+        "ledger_id": "LED_0038",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0039",
+        "bank_tx_id": "BTX_0039",
+        "settlement_id": "STL_0039",
+        "ledger_id": "LED_0039",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0040",
+        "bank_tx_id": "BTX_0040",
+        "settlement_id": "STL_0040",
+        "ledger_id": "LED_0040",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0041",
+        "bank_tx_id": "BTX_0041",
+        "settlement_id": "STL_0041",
+        "ledger_id": "LED_0041",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0042",
+        "bank_tx_id": "BTX_0042",
+        "settlement_id": "STL_0042",
+        "ledger_id": "LED_0042",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0043",
+        "bank_tx_id": "BTX_0043",
+        "settlement_id": "STL_0043",
+        "ledger_id": "LED_0043",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0044",
+        "bank_tx_id": "BTX_0044",
+        "settlement_id": "STL_0044",
+        "ledger_id": "LED_0044",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0045",
+        "bank_tx_id": "BTX_0045",
+        "settlement_id": "STL_0045",
+        "ledger_id": "LED_0045",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0046",
+        "bank_tx_id": "BTX_0046",
+        "settlement_id": "STL_0046",
+        "ledger_id": "LED_0046",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0047",
+        "bank_tx_id": "BTX_0047",
+        "settlement_id": "STL_0047",
+        "ledger_id": "LED_0047",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0048",
+        "bank_tx_id": "BTX_0048",
+        "settlement_id": "STL_0048",
+        "ledger_id": "LED_0048",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0049",
+        "bank_tx_id": "BTX_0049",
+        "settlement_id": "STL_0049",
+        "ledger_id": "LED_0049",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0050",
+        "bank_tx_id": "BTX_0050",
+        "settlement_id": "STL_0050",
+        "ledger_id": "LED_0050",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0051",
+        "bank_tx_id": "BTX_0051",
+        "settlement_id": "STL_0051",
+        "ledger_id": "LED_0051",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0052",
+        "bank_tx_id": "BTX_0052",
+        "settlement_id": "STL_0052",
+        "ledger_id": "LED_0052",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0053",
+        "bank_tx_id": "BTX_0053",
+        "settlement_id": "STL_0053",
+        "ledger_id": "LED_0053",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0054",
+        "bank_tx_id": "BTX_0054",
+        "settlement_id": "STL_0054",
+        "ledger_id": "LED_0054",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0055",
+        "bank_tx_id": "BTX_0055",
+        "settlement_id": "STL_0055",
+        "ledger_id": "LED_0055",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0056",
+        "bank_tx_id": "BTX_0056",
+        "settlement_id": "STL_0056",
+        "ledger_id": "LED_0056",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0057",
+        "bank_tx_id": "BTX_0057",
+        "settlement_id": "STL_0057",
+        "ledger_id": "LED_0057",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0058",
+        "bank_tx_id": "BTX_0058",
+        "settlement_id": "STL_0058",
+        "ledger_id": "LED_0058",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0059",
+        "bank_tx_id": "BTX_0059",
+        "settlement_id": "STL_0059",
+        "ledger_id": "LED_0059",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0060",
+        "bank_tx_id": "BTX_0060",
+        "settlement_id": "STL_0060",
+        "ledger_id": "LED_0060",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0061",
+        "bank_tx_id": "BTX_0061",
+        "settlement_id": "STL_0061",
+        "ledger_id": "LED_0061",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0062",
+        "bank_tx_id": "BTX_0062",
+        "settlement_id": "STL_0062",
+        "ledger_id": "LED_0062",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0063",
+        "bank_tx_id": "BTX_0063",
+        "settlement_id": "STL_0063",
+        "ledger_id": "LED_0063",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0064",
+        "bank_tx_id": "BTX_0064",
+        "settlement_id": "STL_0064",
+        "ledger_id": "LED_0064",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0065",
+        "bank_tx_id": "BTX_0065",
+        "settlement_id": "STL_0065",
+        "ledger_id": "LED_0065",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0066",
+        "bank_tx_id": "BTX_0066",
+        "settlement_id": "STL_0066",
+        "ledger_id": "LED_0066",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0067",
+        "bank_tx_id": "BTX_0067",
+        "settlement_id": "STL_0067",
+        "ledger_id": "LED_0067",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0068",
+        "bank_tx_id": "BTX_0068",
+        "settlement_id": "STL_0068",
+        "ledger_id": "LED_0068",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0069",
+        "bank_tx_id": "BTX_0069",
+        "settlement_id": "STL_0069",
+        "ledger_id": "LED_0069",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0070",
+        "bank_tx_id": "BTX_0070",
+        "settlement_id": "STL_0070",
+        "ledger_id": "LED_0070",
+        "status": "exact_match",
+        "anomalies": []
+    },
+    {
+        "payment_id": "PAY_0071",
+        "bank_tx_id": "BTX_0071",
+        "settlement_id": "STL_0071",
+        "ledger_id": "LED_0071",
+        "status": "anomaly",
+        "anomalies": [
+            "amount_mismatch"
+        ]
+    },
+    {
+        "payment_id": "PAY_0072",
+        "bank_tx_id": "BTX_0072",
+        "settlement_id": "STL_0072",
+        "ledger_id": "LED_0072",
+        "status": "anomaly",
+        "anomalies": [
+            "amount_mismatch"
+        ]
+    },
+    {
+        "payment_id": "PAY_0073",
+        "bank_tx_id": "BTX_0073",
+        "settlement_id": "STL_0073",
+        "ledger_id": "LED_0073",
+        "status": "anomaly",
+        "anomalies": [
+            "amount_mismatch"
+        ]
+    },
+    {
+        "payment_id": "PAY_0074",
+        "bank_tx_id": "BTX_0074",
+        "settlement_id": "STL_0074",
+        "ledger_id": "LED_0074",
+        "status": "anomaly",
+        "anomalies": [
+            "amount_mismatch"
+        ]
+    },
+    {
+        "payment_id": "PAY_0075",
+        "bank_tx_id": "BTX_0075",
+        "settlement_id": "STL_0075",
+        "ledger_id": "LED_0075",
+        "status": "anomaly",
+        "anomalies": [
+            "amount_mismatch"
+        ]
+    },
+    {
+        "payment_id": "PAY_0076",
+        "bank_tx_id": "BTX_0076",
+        "settlement_id": "STL_0076",
+        "ledger_id": "LED_0076",
+        "status": "anomaly",
+        "anomalies": [
+            "amount_mismatch"
+        ]
+    },
+    {
+        "payment_id": "PAY_0077",
+        "bank_tx_id": "BTX_0077",
+        "settlement_id": "STL_0077",
+        "ledger_id": "LED_0077",
+        "status": "anomaly",
+        "anomalies": [
+            "amount_mismatch"
+        ]
+    },
+    {
+        "payment_id": "PAY_0078",
+        "bank_tx_id": "BTX_0078",
+        "settlement_id": "STL_0078",
+        "ledger_id": "LED_0078",
+        "status": "anomaly",
+        "anomalies": [
+            "amount_mismatch"
+        ]
+    },
+    {
+        "payment_id": "PAY_0079",
+        "bank_tx_id": "BTX_0079",
+        "settlement_id": "STL_0079",
+        "ledger_id": "LED_0079",
+        "status": "anomaly",
+        "anomalies": [
+            "date_mismatch"
+        ]
+    },
+    {
+        "payment_id": "PAY_0080",
+        "bank_tx_id": "BTX_0080",
+        "settlement_id": "STL_0080",
+        "ledger_id": "LED_0080",
+        "status": "anomaly",
+        "anomalies": [
+            "date_mismatch"
+        ]
+    },
+    {
+        "payment_id": "PAY_0081",
+        "bank_tx_id": "BTX_0081",
+        "settlement_id": "STL_0081",
+        "ledger_id": "LED_0081",
+        "status": "anomaly",
+        "anomalies": [
+            "date_mismatch"
+        ]
+    },
+    {
+        "payment_id": "PAY_0082",
+        "bank_tx_id": "BTX_0082",
+        "settlement_id": "STL_0082",
+        "ledger_id": "LED_0082",
+        "status": "anomaly",
+        "anomalies": [
+            "date_mismatch"
+        ]
+    },
+    {
+        "payment_id": "PAY_0083",
+        "bank_tx_id": "BTX_0083",
+        "settlement_id": "STL_0083",
+        "ledger_id": "LED_0083",
+        "status": "anomaly",
+        "anomalies": [
+            "date_mismatch"
+        ]
+    },
+    {
+        "payment_id": "PAY_0084",
+        "bank_tx_id": "BTX_0084",
+        "settlement_id": "STL_0084",
+        "ledger_id": "LED_0084",
+        "status": "anomaly",
+        "anomalies": [
+            "missing_in_settlement"
+        ]
+    },
+    {
+        "payment_id": "PAY_0085",
+        "bank_tx_id": "BTX_0085",
+        "settlement_id": "STL_0085",
+        "ledger_id": "LED_0085",
+        "status": "anomaly",
+        "anomalies": [
+            "missing_in_settlement"
+        ]
+    },
+    {
+        "payment_id": "PAY_0086",
+        "bank_tx_id": "BTX_0086",
+        "settlement_id": "STL_0086",
+        "ledger_id": "LED_0086",
+        "status": "anomaly",
+        "anomalies": [
+            "missing_in_settlement"
+        ]
+    },
+    {
+        "payment_id": "PAY_0087",
+        "bank_tx_id": "BTX_0087",
+        "settlement_id": "STL_0087",
+        "ledger_id": "LED_0087",
+        "status": "anomaly",
+        "anomalies": [
+            "missing_in_settlement"
+        ]
+    },
+    {
+        "payment_id": "PAY_0088",
+        "bank_tx_id": "BTX_0088",
+        "settlement_id": "STL_0088",
+        "ledger_id": "LED_0088",
+        "status": "anomaly",
+        "anomalies": [
+            "missing_in_settlement"
+        ]
+    },
+    {
+        "payment_id": "PAY_0089",
+        "bank_tx_id": "BTX_0089",
+        "settlement_id": "STL_0089",
+        "ledger_id": "LED_0089",
+        "status": "anomaly",
+        "anomalies": [
+            "missing_in_ledger"
+        ]
+    },
+    {
+        "payment_id": "PAY_0090",
+        "bank_tx_id": "BTX_0090",
+        "settlement_id": "STL_0090",
+        "ledger_id": "LED_0090",
+        "status": "anomaly",
+        "anomalies": [
+            "missing_in_ledger"
+        ]
+    },
+    {
+        "payment_id": "PAY_0091",
+        "bank_tx_id": "BTX_0091",
+        "settlement_id": "STL_0091",
+        "ledger_id": "LED_0091",
+        "status": "anomaly",
+        "anomalies": [
+            "missing_in_ledger"
+        ]
+    },
+    {
+        "payment_id": "PAY_0092",
+        "bank_tx_id": "BTX_0092",
+        "settlement_id": "STL_0092",
+        "ledger_id": "LED_0092",
+        "status": "anomaly",
+        "anomalies": [
+            "duplicate_in_ledger"
+        ]
+    },
+    {
+        "payment_id": "PAY_0093",
+        "bank_tx_id": "BTX_0093",
+        "settlement_id": "STL_0093",
+        "ledger_id": "LED_0093",
+        "status": "anomaly",
+        "anomalies": [
+            "duplicate_in_ledger"
+        ]
+    },
+    {
+        "payment_id": "PAY_0094",
+        "bank_tx_id": "BTX_0094",
+        "settlement_id": "STL_0094",
+        "ledger_id": "LED_0094",
+        "status": "anomaly",
+        "anomalies": [
+            "duplicate_in_ledger"
+        ]
+    },
+    {
+        "payment_id": "PAY_0095",
+        "bank_tx_id": "BTX_0095",
+        "settlement_id": "STL_0095",
+        "ledger_id": "LED_0095",
+        "status": "anomaly",
+        "anomalies": [
+            "formatting_difference"
+        ]
+    },
+    {
+        "payment_id": "PAY_0096",
+        "bank_tx_id": "BTX_0096",
+        "settlement_id": "STL_0096",
+        "ledger_id": "LED_0096",
+        "status": "anomaly",
+        "anomalies": [
+            "formatting_difference"
+        ]
+    },
+    {
+        "payment_id": "PAY_0097",
+        "bank_tx_id": "BTX_0097",
+        "settlement_id": "STL_0097",
+        "ledger_id": "LED_0097",
+        "status": "anomaly",
+        "anomalies": [
+            "formatting_difference"
+        ]
+    },
+    {
+        "payment_id": "PAY_0098",
+        "bank_tx_id": "BTX_0098",
+        "settlement_id": "STL_0098",
+        "ledger_id": "LED_0098",
+        "status": "anomaly",
+        "anomalies": [
+            "partial_settlement"
+        ]
+    },
+    {
+        "payment_id": "PAY_0099",
+        "bank_tx_id": "BTX_0099",
+        "settlement_id": "STL_0099",
+        "ledger_id": "LED_0099",
+        "status": "anomaly",
+        "anomalies": [
+            "partial_settlement"
+        ]
+    },
+    {
+        "payment_id": "PAY_0100",
+        "bank_tx_id": "BTX_0100",
+        "settlement_id": "STL_0100",
+        "ledger_id": "LED_0100",
+        "status": "anomaly",
+        "anomalies": [
+            "fee_mismatch"
+        ]
+    }
+]

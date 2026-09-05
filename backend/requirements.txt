@@ -1,0 +1,49 @@
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+sqlalchemy==2.0.23
+alembic==1.13.0
+pydantic==2.5.2
+pydantic-settings==2.1.0
+python-multipart==0.0.6
+pandas==2.1.4
+numpy==1.26.2
+python-Levenshtein==0.23.0
+thefuzz==0.22.1
+scipy==1.11.4
+scikit-learn==1.3.2
+google-generativeai==0.8.0
+python-dotenv==1.0.0
+psycopg2-binary==2.9.9
+aiosqlite==0.19.0
+httpx==0.25.2
+pytest==7.4.3
+pytest-asyncio==0.23.2
+
+# --- Production hardening additions ---
+# Auth / RBAC
+python-jose[cryptography]==3.3.0
+bcrypt==4.1.2
+email-validator==2.1.1
+
+# Razorpay live API integration
+# NOTE: the official `razorpay` SDK still imports pkg_resources internally,
+# which setuptools removed in v81+ — pin setuptools below that so the SDK
+# import doesn't break on modern Python/pip toolchains.
+setuptools<81
+razorpay==1.4.2
+
+# Rate limiting
+slowapi==0.1.9
+
+# Structured logging
+structlog==24.1.0
+python-json-logger==2.0.7
+
+# Retry/backoff for outbound API calls (bank/PSP integrations)
+tenacity==8.2.3
+
+# Production ASGI process manager
+gunicorn==21.2.0
+
+# Sentry error tracking (optional, no-ops if DSN not set)
+sentry-sdk[fastapi]==1.40.6

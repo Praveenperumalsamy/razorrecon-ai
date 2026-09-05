@@ -1,0 +1,9 @@
+refund_id,payment_id,refund_date,refund_amount,reason,status
+RFD_0001,PAY_0002,2024-09-28,44662.89,defective_item,processed
+RFD_0002,PAY_0003,2024-08-23,25515.09,customer_request,processed
+RFD_0003,PAY_0004,2024-09-09,11411.81,product_return,processed
+RFD_0004,PAY_0005,2024-08-24,14254.63,customer_request,processed
+RFD_0005,PAY_0006,2024-09-28,17525.81,customer_request,processed
+RFD_0006,PAY_0007,2024-10-11,19237.45,product_return,processed
+RFD_0007,PAY_0008,2024-08-29,29078.93,defective_item,processed
+RFD_0008,PAY_0009,2024-10-04,12023.15,customer_request,processed

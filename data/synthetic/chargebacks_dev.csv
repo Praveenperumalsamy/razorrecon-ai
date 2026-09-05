@@ -1,0 +1,4 @@
+chargeback_id,payment_id,chargeback_date,amount,reason,status
+CHB_0001,PAY_0011,2024-10-08,31931.43,not_as_described,resolved
+CHB_0002,PAY_0012,2024-10-24,32179.99,not_as_described,disputed
+CHB_0003,PAY_0013,2024-09-01,40349.77,not_as_described,resolved
